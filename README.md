@@ -1,2 +1,2 @@
 # LscUnity
-Unity projektem
+Unity projekteim
