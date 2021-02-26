@@ -1,2 +1,2 @@
 # LscUnity
-Unity projekteim szeretlek
+Unity projekteim
